@@ -10,7 +10,7 @@ Projekt polega na zrobieniu przykłądowego inteligentengo domu z wykorzystaniem
 
 ## Koncepcja:
 
-(zdjęcie)
+![alt tekst](https://github.com/DariuszGorgon/SmartHouse/blob/master/Java_plan.png)
 
 ## Harmonogram prac:
 * 19 X - Podział obowiązków oraz wstępne założenia do projektu
